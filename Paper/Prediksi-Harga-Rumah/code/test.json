@@ -1,0 +1,522 @@
+{
+  "version": "100.12",
+  "data": [
+    {
+      "id": "927012675",
+      "score": 0.9220272904483431,
+      "spell": {
+        "id": 135,
+        "key": "GOOD_BERRY_ES",
+        "version": "1",
+        "main": false,
+        "facet_disabled": true,
+        "default_sorting": "DEFAULT"
+      },
+      "status": {
+        "status": "active",
+        "allow_edit": true,
+        "ban_reason_id": null,
+        "display": "active",
+        "translated_display": "Aktif",
+        "link": null,
+        "flags": {
+          "new": false,
+          "hot": false
+        },
+        "message": null,
+        "allow_deactivate": true
+      },
+      "category_id": "5160",
+      "ad_id": "927012675",
+      "favorites": {
+        "count": 0,
+        "count_label_next": "1"
+      },
+      "has_phone_param": false,
+      "description": "2 kamar tidur\n1 kamar mandi\nGarasi",
+      "created_at": "2024-10-14T22:50:18+07:00",
+      "inspection_info": null,
+      "package_id": null,
+      "title": "Disewakan rumah per tahun",
+      "multi_location": null,
+      "video_url": null,
+      "partner_id": null,
+      "user_type": "Regular",
+      "price": {
+        "value": {
+          "raw": 1.5e7,
+          "currency": {
+            "iso_4217": "IDR",
+            "pre": "Rp"
+          },
+          "display": "Rp 15.000.000"
+        },
+        "key_name": "Harga",
+        "key": "price"
+      },
+      "has_promotion": false,
+      "partner_code": null,
+      "is_video_generated": false,
+      "monetizationInfo": null,
+      "images": [
+        {
+          "id": "2483955499",
+          "external_id": "670d3cc2b21e1-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cc2b21e1-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cc2b21e1-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cc2b21e1-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cc2b21e1-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cc2b21e1-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955500",
+          "external_id": "670d3cf064d40-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf064d40-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf064d40-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf064d40-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf064d40-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf064d40-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955501",
+          "external_id": "670d3cf2f039a-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf2f039a-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf2f039a-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf2f039a-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf2f039a-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf2f039a-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955502",
+          "external_id": "670d3cf3962f1-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf3962f1-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf3962f1-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf3962f1-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf3962f1-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf3962f1-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955503",
+          "external_id": "670d3cf4daf3a-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf4daf3a-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf4daf3a-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf4daf3a-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf4daf3a-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf4daf3a-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955504",
+          "external_id": "670d3cf55c827-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf55c827-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf55c827-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf55c827-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf55c827-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf55c827-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955505",
+          "external_id": "670d3cf67a6a-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf67a6a-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf67a6a-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf67a6a-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf67a6a-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf67a6a-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955506",
+          "external_id": "670d3cf7cb04e-ID",
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf7cb04e-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 810,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf7cb04e-ID/image;s=1080x810"
+          },
+          "big": {
+            "width": 505,
+            "height": 378,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf7cb04e-ID/image;s=505x378"
+          },
+          "medium": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf7cb04e-ID/image;s=120x90"
+          },
+          "small": {
+            "width": 120,
+            "height": 90,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf7cb04e-ID/image;s=120x90"
+          }
+        },
+        {
+          "id": "2483955507",
+          "external_id": "670d3cf841ccf-ID",
+          "width": 810,
+          "height": 1080,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf841ccf-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf841ccf-ID/image;s=1080x1440"
+          },
+          "big": {
+            "width": 505,
+            "height": 673,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf841ccf-ID/image;s=505x673"
+          },
+          "medium": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf841ccf-ID/image;s=120x160"
+          },
+          "small": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf841ccf-ID/image;s=120x160"
+          }
+        },
+        {
+          "id": "2483955508",
+          "external_id": "670d3cf966f41-ID",
+          "width": 810,
+          "height": 1080,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cf966f41-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf966f41-ID/image;s=1080x1440"
+          },
+          "big": {
+            "width": 505,
+            "height": 673,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf966f41-ID/image;s=505x673"
+          },
+          "medium": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf966f41-ID/image;s=120x160"
+          },
+          "small": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cf966f41-ID/image;s=120x160"
+          }
+        },
+        {
+          "id": "2483955509",
+          "external_id": "670d3cfa76ac3-ID",
+          "width": 810,
+          "height": 1080,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cfa76ac3-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfa76ac3-ID/image;s=1080x1440"
+          },
+          "big": {
+            "width": 505,
+            "height": 673,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfa76ac3-ID/image;s=505x673"
+          },
+          "medium": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfa76ac3-ID/image;s=120x160"
+          },
+          "small": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfa76ac3-ID/image;s=120x160"
+          }
+        },
+        {
+          "id": "2483955510",
+          "external_id": "670d3cfb4fd5d-ID",
+          "width": 810,
+          "height": 1080,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cfb4fd5d-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfb4fd5d-ID/image;s=1080x1440"
+          },
+          "big": {
+            "width": 505,
+            "height": 673,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfb4fd5d-ID/image;s=505x673"
+          },
+          "medium": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfb4fd5d-ID/image;s=120x160"
+          },
+          "small": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfb4fd5d-ID/image;s=120x160"
+          }
+        },
+        {
+          "id": "2483955511",
+          "external_id": "670d3cfc42c3f-ID",
+          "width": 810,
+          "height": 1080,
+          "url": "https://apollo.olx.co.id:443/v1/files/670d3cfc42c3f-ID/image",
+          "full": {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfc42c3f-ID/image;s=1080x1440"
+          },
+          "big": {
+            "width": 505,
+            "height": 673,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfc42c3f-ID/image;s=505x673"
+          },
+          "medium": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfc42c3f-ID/image;s=120x160"
+          },
+          "small": {
+            "width": 120,
+            "height": 160,
+            "url": "https://apollo.olx.co.id:443/v1/files/670d3cfc42c3f-ID/image;s=120x160"
+          }
+        }
+      ],
+      "certified_car": false,
+      "is_kyc_verified_user": false,
+      "locations_resolved": {
+        "COUNTRY_id": "1000001",
+        "COUNTRY_name": "Indonesia",
+        "ADMIN_LEVEL_1_id": "2000009",
+        "ADMIN_LEVEL_1_name": "Jawa Barat",
+        "ADMIN_LEVEL_3_id": "4000004",
+        "ADMIN_LEVEL_3_name": "Bogor Kab.",
+        "SUBLOCALITY_LEVEL_1_id": "5000799",
+        "SUBLOCALITY_LEVEL_1_name": "Cibinong"
+      },
+      "deal_price": null,
+      "business_platform": null,
+      "main_info": "2 KT - 1 KM - 0000 m2",
+      "artificial_boost": false,
+      "display_date": "2024-10-14T15:48:29+0000",
+      "isSpinViewAvailable": false,
+      "user_id": "58691701",
+      "installment": null,
+      "created_at_first": "2024-10-14T22:48:29+07:00",
+      "locations": [
+        {
+          "lat": -6.49,
+          "lon": 106.83,
+          "region_id": "2000009",
+          "district_id": "5000799",
+          "city_id": "4000004"
+        }
+      ],
+      "parameters": [
+        {
+          "type": "single",
+          "key": "type",
+          "value": "rumah",
+          "value_name": "Rumah",
+          "absoluteValue": "rumah",
+          "key_name": "Tipe",
+          "formatted_value": "Rumah"
+        },
+        {
+          "type": "single",
+          "key": "p_sqr_building",
+          "value": "0000",
+          "value_name": "0000",
+          "absoluteValue": "0000",
+          "key_name": "Luas bangunan",
+          "formatted_value": "0000"
+        },
+        {
+          "type": "single",
+          "key": "p_sqr_land",
+          "value": "0000",
+          "value_name": "0000",
+          "absoluteValue": "0000",
+          "key_name": "Luas tanah",
+          "formatted_value": "0000"
+        },
+        {
+          "type": "single",
+          "key": "p_bedroom",
+          "value": "2",
+          "value_name": "2",
+          "absoluteValue": "2",
+          "key_name": "Kamar tidur",
+          "formatted_value": "2"
+        },
+        {
+          "type": "single",
+          "key": "p_bathroom",
+          "value": "1",
+          "value_name": "1",
+          "absoluteValue": "1",
+          "key_name": "Kamar Mandi",
+          "formatted_value": "1"
+        },
+        {
+          "type": "multi",
+          "key": "p_facility",
+          "values": [
+            {
+              "value": "ac"
+            }
+          ],
+          "absoluteValue": "ac",
+          "key_name": "Fasilitas"
+        },
+        {
+          "type": "single",
+          "key": "p_certificate",
+          "value": "shm-sertifikathakmilik",
+          "value_name": "SHM - Sertifikat Hak Milik",
+          "absoluteValue": "shm-sertifikathakmilik",
+          "key_name": "Sertifikasi",
+          "formatted_value": "SHM - Sertifikat Hak Milik"
+        },
+        {
+          "type": "single",
+          "key": "p_alamat",
+          "value": "Graha kartika pratama cluster srikandi blok DD4 No.5",
+          "value_name": "Graha kartika pratama cluster srikandi blok DD4 No.5",
+          "absoluteValue": "Graha kartika pratama cluster srikandi blok DD4 No.5",
+          "key_name": "Alamat lokasi",
+          "formatted_value": "Graha kartika pratama cluster srikandi blok DD4 No.5"
+        }
+      ]
+    }
+  ]
+}
