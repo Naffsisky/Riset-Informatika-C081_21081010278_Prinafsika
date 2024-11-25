@@ -1,0 +1,117 @@
+{
+  "version": "100.12",
+  "data": [
+    {
+      "id": "927012675",
+      "score": 0.9220272904483431,
+      "spell": {},
+      "status": {},
+      "category_id": "5160",
+      "ad_id": "927012675",
+      "favorites": {},
+      "has_phone_param": false,
+      "description": "2 kamar tidur\n1 kamar mandi\nGarasi",
+      "created_at": "2024-10-14T22:50:18+07:00",
+      "inspection_info": null,
+      "package_id": null,
+      "title": "Disewakan rumah per tahun",
+      "multi_location": null,
+      "video_url": null,
+      "partner_id": null,
+      "user_type": "Regular",
+      "price": {
+        "value": {
+          "raw": 1.5e7,
+          "currency": {
+            "iso_4217": "IDR",
+            "pre": "Rp"
+          },
+          "display": "Rp 15.000.000"
+        },
+        "key_name": "Harga",
+        "key": "price"
+      },
+      "has_promotion": false,
+      "partner_code": null,
+      "is_video_generated": false,
+      "monetizationInfo": null,
+      "images": [],
+      "certified_car": false,
+      "is_kyc_verified_user": false,
+      "locations_resolved": {
+        "COUNTRY_id": "1000001",
+        "COUNTRY_name": "Indonesia",
+        "ADMIN_LEVEL_1_id": "2000009",
+        "ADMIN_LEVEL_1_name": "Jawa Barat",
+        "ADMIN_LEVEL_3_id": "4000004",
+        "ADMIN_LEVEL_3_name": "Bogor Kab.",
+        "SUBLOCALITY_LEVEL_1_id": "5000799",
+        "SUBLOCALITY_LEVEL_1_name": "Cibinong"
+      },
+      "deal_price": null,
+      "business_platform": null,
+      "main_info": "2 KT - 1 KM - 0000 m2",
+      "artificial_boost": false,
+      "display_date": "2024-10-14T15:48:29+0000",
+      "isSpinViewAvailable": false,
+      "user_id": "58691701",
+      "installment": null,
+      "created_at_first": "2024-10-14T22:48:29+07:00",
+      "locations": [],
+      "parameters": [
+        {
+          "type": "single",
+          "key": "type",
+          "value": "rumah",
+          "value_name": "Rumah",
+          "absoluteValue": "rumah",
+          "key_name": "Tipe",
+          "formatted_value": "Rumah"
+        },
+        {
+          "type": "single",
+          "key": "p_sqr_building",
+          "value": "0000",
+          "value_name": "0000",
+          "absoluteValue": "0000",
+          "key_name": "Luas bangunan",
+          "formatted_value": "0000"
+        },
+        {
+          "type": "single",
+          "key": "p_sqr_land",
+          "value": "0000",
+          "value_name": "0000",
+          "absoluteValue": "0000",
+          "key_name": "Luas tanah",
+          "formatted_value": "0000"
+        },
+        {
+          "type": "single",
+          "key": "p_bedroom",
+          "value": "2",
+          "value_name": "2",
+          "absoluteValue": "2",
+          "key_name": "Kamar tidur",
+          "formatted_value": "2"
+        },
+        {
+          "type": "single",
+          "key": "p_bathroom",
+          "value": "1",
+          "value_name": "1",
+          "absoluteValue": "1",
+          "key_name": "Kamar Mandi",
+          "formatted_value": "1"
+        },
+        {
+          "type": "multi",
+          "key": "p_facility",
+          "values": [],
+          "absoluteValue": "ac",
+          "key_name": "Fasilitas"
+        }
+      ]
+    }
+  ]
+}
